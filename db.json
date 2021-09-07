@@ -1,0 +1,27 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Liga da justiça",
+            "director": " zack snyder",
+            "generes": "Ação",
+            "year": "2021"
+        },
+        {
+            "id": 2,
+            "title": "Godzilla vs. Kong",
+            "director": " Adam Wingard",
+            "generes": "Ação",
+            "year": "2021"
+        }
+    ],
+    "series": [
+        {
+            "id": 1,
+            "title": "wandaVision",
+            "director": "Jac Schaeffer",
+            "generes": "Comédia",
+            "year": "2021"
+        }
+    ]
+}
